@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center"> Hello!! Welcome to my profille</h2>
+<br>
+<p align="center">
+  <img  alt="Gabriel-gif" src="https://cdn.discordapp.com/attachments/478314088863105045/871882623771877416/github_gif.gif">
+</p>
+ <br>
+ <a href="https://github.com/panppa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panppa&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&border_color=ff6e96"/>
+ </a>
+ 
+ <a href="https://github.com/panppa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panppa&layout=compact&langs_count=7&theme=dracula&border_color=ff6e96"/>
+ </a>
 
-<!--
-**panppa/panppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
