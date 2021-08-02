@@ -1,7 +1,7 @@
 <h2 align="center"> Hello!! Welcome to my profille</h2>
 <br>
 <p align="center">
-  <img  alt="Gabriel-gif" src="https://cdn.discordapp.com/attachments/478314088863105045/871882623771877416/github_gif.gif">
+  <img  alt="Gabriel-gif" width="500em" src="https://cdn.discordapp.com/attachments/478314088863105045/871882623771877416/github_gif.gif">
 </p>
  <br>
  <a href="https://github.com/panppa">
