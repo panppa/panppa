@@ -5,11 +5,11 @@
 </p>
  <br>
  <a href="https://github.com/panppa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panppa&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&border_color=ff6e96"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=panppa&show_icons=false&theme=dracula&include_all_commits=true&count_private=true&border_color=ff6e96"/>
  </a>
  
  <a href="https://github.com/panppa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panppa&layout=compact&langs_count=7&theme=dracula&border_color=ff6e96"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panppa&layout=compact&langs_count=7&theme=dracula&border_color=ff6e96"/>
  </a>
 
   
