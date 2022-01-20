@@ -11,20 +11,16 @@
 </div>
 
 ##
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="90em" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="90em" align="left"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="90em" align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="90em" align="left"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="90em" align="left"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90em" align="left"/>
-
-
-
-
-
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" align="left"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" align="left"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" align="left"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" align="left"/>
  <p align="right">
-    <img  alt=".pan-gif" width="180" src="https://media0.giphy.com/media/pbJU1gzuFw8ILRxzOK/giphy.gif?cid=790b761108c67597c618c1455f9480a3153ba2758f59f2d2&rid=giphy.gif&ct=g"> 
+    <img  alt=".pan-gif" width="180"  style="border-radius:20" src="https://media0.giphy.com/media/pbJU1gzuFw8ILRxzOK/giphy.gif?cid=790b761108c67597c618c1455f9480a3153ba2758f59f2d2&rid=giphy.gif&ct=g"> 
  </p>
- </div>
 
+
+ </div>
