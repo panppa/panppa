@@ -5,11 +5,9 @@
 <td align=center>
     <kbd> <img  alt=".pan-gif" width="180"  style="border-radius:20" src="https://cdn.discordapp.com/attachments/1042105628958654536/1068250295408279583/ezgif.com-gif-maker.gif" align="right">
     </kbd><br><br>
-Lorem ipsum dolor sit amet<br>
-consectetur adipiscing elit,<br>
-sed do eiusmod tempor<br>
-incididunt ut labore et dolore<br>
-magna aliqua.<br> 
+- Estudante do curso profissionalizante de programação full stack pelo senai <br>
+- Técnico em Informática pelo ifmg<br>
+- Cursando Ciência da Computação<br>
 </td>
 <td align="center">
 </div>
